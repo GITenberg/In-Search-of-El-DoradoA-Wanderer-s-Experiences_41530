@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '41222'
     url: http://www.gutenberg.org/2009/agents/41222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41530#In-Search-of-El-DoradoA-Wanderer-s-Experiences
 gutenberg_issued: '2012-12-01'
 gutenberg_type: Text
 identifiers:
