@@ -1,0 +1,39 @@
+_repo: In-Search-of-El-DoradoA-Wanderer-s-Experiences_41530
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Moresby, John
+    birthdate: 1830
+    deathdate: 1922
+    gutenberg_agent_id: '40792'
+    url: http://www.gutenberg.org/2009/agents/40792
+covers:
+- cover_type: archival
+  image_path: 41530-h/images/cover.jpg
+creator:
+  author:
+    agent_name: MacDonald, Alexander
+    birthdate: 1878
+    deathdate: 1939
+    gutenberg_agent_id: '41222'
+    url: http://www.gutenberg.org/2009/agents/41222
+description: ''
+gutenberg_issued: '2012-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41530'
+  lccn: 08010291
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Alaska'
+- !lcsh 'Klondike River Valley (Yukon) -- Gold discoveries'
+- !lcsh 'Gold mines and mining -- Australia'
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+tableOfContents: Part 1. The frozen North -- Part 2. Under the Southern cross -- Part
+  3. Promiscous wanderings.
+title: 'In Search of El Dorado: A Wanderer''s Experiences'
+url: http://www.gutenberg.org/ebooks/41530
